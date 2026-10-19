@@ -1,0 +1,19 @@
+# Android
+.gradle/
+**/build/
+local.properties
+.idea/
+*.iml
+
+# Rust build artifacts
+**/target/
+
+# Rust generated files
+# Keep Cargo.lock if the repository contains a Rust application or workspace.
+# Uncomment the following line if you intentionally want to ignore it:
+# Cargo.lock
+
+# OS files
+.DS_Store
+Thumbs.db
+

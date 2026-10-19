@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Media player</string>
+
+    <string name="tab_encrypt">Encrypt</string>
+    <string name="tab_secure_folder">Secure Folder</string>
+
+    <string name="encrypt_title">Media Picker</string>
+    <string name="encrypt_choose">Choose Image or Video</string>
+    <string name="encrypt_choose_audio">Choose Audio</string>
+    <string name="encrypt_audio_selected">Audio selected</string>
+    <string name="encrypt_video_selected">Video selected</string>
+    <string name="encrypt_selected_image">Selected image</string>
+    <string name="encrypt_action">Encrypt Media</string>
+    <string name="encrypt_in_progress">Encrypting media…</string>
+    <string name="encrypt_success">Encryption successful</string>
+    <string name="encrypt_failed">Encryption failed: %1$s</string>
+    <string name="encrypt_clear">Clear Selection</string>
+    <string name="encrypt_none">No media selected</string>
+    <string name="encrypt_view_folder">View in Secure Folder</string>
+
+    <string name="folder_empty">No encrypted media yet. Encrypt a photo or video to see it here.</string>
+    <string name="folder_item_image">Encrypted image</string>
+    <string name="folder_item_video">Encrypted video</string>
+    <string name="folder_item_audio">Encrypted audio</string>
+
+    <string name="viewer_image">Decrypted image</string>
+    <string name="viewer_video_preview">Video preview</string>
+    <string name="viewer_audio">Audio</string>
+    <string name="viewer_play">Play</string>
+    <string name="viewer_back">Back</string>
+
+    <string name="error_authentication_failed">This file appears to have been tampered with, or its key is wrong.</string>
+    <string name="error_corrupted">This encrypted file is damaged or incomplete.</string>
+    <string name="error_unsupported_media">This media type isn\'t supported.</string>
+    <string name="error_metadata_unsupported">This format\'s metadata can\'t be removed, so it wasn\'t encrypted.</string>
+    <string name="error_not_found">This media no longer exists.</string>
+    <string name="error_storage">Couldn\'t read or write storage.</string>
+    <string name="error_unknown">Something went wrong.</string>
+</resources>
